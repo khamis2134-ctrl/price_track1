@@ -1,0 +1,20 @@
+{
+  "sites": [
+    {
+      "name": "ExampleShop1",
+      "url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+      "product_selector": ".thumbnail",
+      "title_selector": ".title",
+      "price_selector": ".price",
+      "currency": "USD"
+    },
+    {
+      "name": "BooksToScrape",
+      "url": "https://books.toscrape.com/",
+      "product_selector": "article.product_pod",
+      "title_selector": "h3 a",
+      "price_selector": ".price_color",
+      "currency": "GBP"
+    }
+  ]
+}
