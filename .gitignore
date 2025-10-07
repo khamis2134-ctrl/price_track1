@@ -4,3 +4,6 @@ __pycache__/
 *.db
 /data/prices_export.csv
 .env
+# Ignore data and logs directories
+data/
+logs/
