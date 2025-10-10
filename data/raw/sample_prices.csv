@@ -1,0 +1,4 @@
+source,item,price,currency,notes
+sample,Laptop Model A,799.99,USD,initial-import
+sample,Phone Model X,399.50,USD,initial-import
+sample,Wireless Mouse,19.99,USD,initial-import

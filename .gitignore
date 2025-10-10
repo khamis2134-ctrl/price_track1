@@ -1,9 +1,12 @@
-venv/
 __pycache__/
-*.pyc
-*.db
-/data/prices_export.csv
 .env
 # Ignore data and logs directories
-data/
+*.pyc
+.venv/
+venv/
+.env
 logs/
+data/clean/prices.db
+to_remove.txt
+current.txt
+*.sqlite
