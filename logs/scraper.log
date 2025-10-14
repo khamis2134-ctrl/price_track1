@@ -1,3 +1,0 @@
-{"ts": "2025-10-06T15:09:14.756053", "level": "INFO", "logger": "price_track", "message": "Starting price_track run"}
-{"ts": "2025-10-06T15:09:14.803168", "level": "INFO", "logger": "price_track.db", "message": "Initialized database at /data/data/com.termux/files/home/projects/price_track1/data/prices.db"}
-{"ts": "2025-10-06T15:09:14.805100", "level": "INFO", "logger": "price_track.tracker", "message": "Scraping source fake_store (https://fakestoreapi.com/products)"}
